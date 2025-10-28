@@ -1,0 +1,85 @@
+[
+    {
+        "id": "R001",
+        "nome": "Vestido Midi Floral",
+        "preco": 299.90, 
+        "precoOriginal": 349.90,
+        "tamanhos": ["P", "M", "G"],
+        "estoque": 5,
+        "imagens": [
+            "https://i.imgur.com/Qph8EE3.jpeg",
+            "https://i.imgur.com/gJcmV3e.jpeg",
+            "https://i.imgur.com/bAs93dE.jpeg"
+        ],
+        "categoria": "roupa",
+        "descricao": "Um vestido elegante e confortável com estampa floral, perfeito para ocasiões especiais na primavera ou verão. Tecido leve e caimento impecável."
+    },
+    {
+        "id": "J001",
+        "nome": "Colar de Pérolas",
+        "preco": 150.00,
+        "bestseller": true,
+        "estoque": 10,
+        "imagens": [
+            "https://i.imgur.com/sA22YIq.jpeg",
+            "https://i.imgur.com/PLD3z8S.jpeg"
+        ],
+        "categoria": "joia",
+        "descricao": "Clássico e atemporal, este colar de pérolas sintéticas de alta qualidade adiciona um toque de sofisticação a qualquer look. Fecho em prata 925."
+    },
+    {
+        "id": "R002",
+        "nome": "Blusa de Seda Branca",
+        "preco": 189.90,
+        "tamanhos": ["P", "M", "G", "GG"],
+        "estoque": 0,
+        "imagens": [
+            "https://i.imgur.com/tL4h2BD.jpeg"
+        ],
+        "categoria": "roupa",
+        "descricao": "Uma peça essencial no guarda-roupa feminino. Feita de seda pura, esta blusa oferece um toque suave e um visual refinado para o trabalho ou lazer."
+    },
+    {
+        "id": "B001",
+        "nome": "Brinco Argola Dourada",
+        "preco": 79.50,
+        "imagens": [
+            "https://i.imgur.com/kZfJtL2.jpeg"
+        ],
+        "categoria": "joia",
+        "descricao": "Brincos de argola com banho de ouro 18k. Leves e versáteis, são ideais para o uso diário, complementando desde looks casuais até os mais formais."
+    },
+    {
+        "id": "R003",
+        "nome": "Saia Plissada Rosa",
+        "preco": 179.90,
+        "tamanhos": ["36", "38", "40", "42"],
+        "imagens": [
+            "https://i.imgur.com/3oAlS5b.jpeg"
+        ],
+        "categoria": "roupa",
+        "descricao": "Saia plissada em tom rosa pastel, de comprimento midi. Uma peça versátil e feminina, ideal para compor looks românticos e modernos."
+    },
+    {
+        "id": "BL001",
+        "nome": "Bolsa de Couro Caramelo",
+        "preco": 319.90,
+        "precoOriginal": 349.90,
+        "bestseller": true,
+        "imagens": [
+            "https://i.imgur.com/M08p3m6.jpeg"
+        ],
+        "categoria": "bolsa",
+        "descricao": "Uma bolsa de couro legítimo na cor caramelo, espaçosa e elegante. Perfeita para o dia a dia, com alças reforçadas e múltiplos compartimentos internos."
+    },
+    {
+        "id": "C001",
+        "nome": "Sandália de Salto Bloco",
+        "preco": 249.90,
+        "imagens": [
+            "https://i.imgur.com/exemplo-de-url.jpeg"
+        ],
+        "categoria": "calcado",
+        "descricao": "Uma sandália confortável e estilosa, perfeita para o verão. Salto bloco para maior estabilidade e conforto durante todo o dia."
+    }
+]
